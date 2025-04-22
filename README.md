@@ -2,6 +2,10 @@
 
 TimePrint is a cross-platform mobile application built with React Native that helps users capture, organize, and relive meaningful moments from both everyday experiences and special occasions. Unlike traditional photo apps, it combines photos, location data, contextual information, and personal reflections to create rich, multi-dimensional memory records.
 
+## Demo Video
+
+[Watch the TimePrint Demo Video](https://www.canva.com/design/DAGjbRrqtX0/K2CyRahzf6OKt4BglD-6MQ/watch?utm_content=DAGjbRrqtX0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h89f17cc6b3)
+
 ## Features
 
 ### Authentication
